@@ -1,0 +1,19 @@
+title: manasse:~#
+#description: pew pew!!!
+show_downloads: false
+show_repo: false
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+socialIcons:
+    - name: twitter
+      url: "https://twitter.com/manas3c"
+    - name: github
+      url: "https://github.com/oxmanasee"
+    - name: discord
+      url: "manas3#1138"
